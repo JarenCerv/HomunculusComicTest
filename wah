@@ -1,0 +1,17 @@
+{
+  "title": "Homunculus",
+  "description": "HOMUNCULUS is a slow-paced, film-like comic that follows the daily lives of a group of artificial girls and their creator at the end of the world. It is a gloomy, anxious, and sometimes outright creepy story, peppered with moments of tenderness and hope.",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/y9Tocvt/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
